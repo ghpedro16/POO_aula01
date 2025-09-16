@@ -4,6 +4,7 @@ public class Televisao{
     private const int VOL_MIN = 0;
     private const int CANAL_MAX = 520;
     private const int CANAL_MIN = 1;
+
     public Televisao(float tamanho){
         Tamanho = tamanho;
     }
